@@ -56,6 +56,7 @@ Pass 1 Database
 -	A Symbol Table to store label and its value.
 -	A Literal Table to store literal and assigned location.
 -	A copy of input source file to be used in pass 2 can be stored as a File pointer.
+
 Pass 2 Database
 
 -	Copy of Input Source Program in pass 1.
